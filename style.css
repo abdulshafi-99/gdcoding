@@ -1,0 +1,12 @@
+:root {
+        /* Colors */
+    --clr-orange: #DA722C;
+    --clr-blue: #057ADA;
+    --clr-light: #E8F7FB;
+    --clr-dark-blue: #023047;
+    --clr-dark: #070917;
+    --clr-light-blue: #6F7DFB;
+        /* Fonts */
+    --font-one: 'Poppins', sans-serif;
+    --font-two: 'Raleway', sans-serif;
+}
